@@ -1,0 +1,8 @@
+diff --git a/newfile b/newfile
+deleted file mode 100644
+index 1c57d0d..0000000
+--- a/newfile
++++ /dev/null
+@@ -1,2 +0,0 @@
+-heloo everyone 
+-how is your git experience
